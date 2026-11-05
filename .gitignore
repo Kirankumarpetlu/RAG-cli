@@ -1,0 +1,11 @@
+.env
+.venv*/
+.tools/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+documents/
+storage/
+data/
+dumps/
+meili_data/
